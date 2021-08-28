@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*apply styles to hero*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -54,7 +55,9 @@ body {
     background-size: cover;
     background-position: center;
 }
+/*hero styles end*/
 
+/*services styles begin*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,7 +74,9 @@ body {
     margin-left: 20px;
     font-size: 16px;
 }
+/*end of services styles*/
 
+/*benefit styles*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +138,9 @@ body {
     margin: 10px auto;
     max-width: 150px;
 }
+/*end of benifit styels*/
 
+/*nav bar*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +194,9 @@ body {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*end of nav bar styles*/
 
+/*footer styles*/
 .footer {
     padding: 30px;
     clear: both;
