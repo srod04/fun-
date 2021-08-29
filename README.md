@@ -8,7 +8,7 @@ To get a better understanding in the bootcamp for challenge 1 and meet the accep
 * CSS
 
 ## Website
-http://www.horiseon.ca/
+https://srod04.github.io/fun-/
 
 ## Contribution
 Completed by Stephen Rodrigues
